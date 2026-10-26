@@ -1,0 +1,6 @@
+{
+  "name": "Discipline",
+  "description": "Application professionnelle pour développer la discipline personnelle, maîtriser ses objectifs par niveaux et atteindre l'auto-discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
